@@ -9,10 +9,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ## Introduction 
-Synectiks Appkube is a SRE platform that primariliy focuses on following :
-- Manage distributed microservices cost & Quality (container & servless) in multicloud hybrid environment
-- Deliver reusable common App Blocks to write enterprise products with reduced codeing effort
-- Deliver DevSecOps tooling to write enterprise products
+Synectiks Appkube is a SRE platform that primarily focuses on following :
+•	Manage distributed microservices cost & Quality (container & server less) in multicloud hybrid environment
+•	Deliver reusable common App Blocks to write enterprise products with reduced coding effort
+•	Deliver DevSecOps tooling to write enterprise products
+
 ## Business Benefits 
 
 It helps customer who is devoloping products in cloudnative environment as follows:
