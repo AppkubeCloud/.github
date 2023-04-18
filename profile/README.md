@@ -10,13 +10,15 @@
 -->
 ## Introduction 
 Synectiks Appkube is a SRE platform that primarily focuses on following :
-•	Manage distributed microservices cost & Quality (container & server less) in multicloud hybrid environment
-•	Deliver reusable common App Blocks to write enterprise products with reduced coding effort
-•	Deliver DevSecOps tooling to write enterprise products
+
+  - Manage distributed microservices cost & Quality (container & server less) in multicloud hybrid environment
+  - Deliver reusable common App Blocks to write enterprise products with reduced coding effort
+  - Deliver DevSecOps tooling to write enterprise products
 
 ## Business Benefits 
 
 It helps customer who is devoloping products in cloudnative environment as follows:
+
   - Reduced Operation Management time & Effort @50%
   - Imporves product SLE's by 30%
   - Reduce Cloud Capex by 25%
